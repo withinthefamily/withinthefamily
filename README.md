@@ -1,11 +1,3 @@
-✅ Navigation is now sticky and scrolls with the page.
-✅ "About the Show" section has been added with a clear mission and voice.
-
-Next options:
-
-* 🎥 Add a **“Watch Now”** section (YouTube embed, teaser trailer, or episode thumbnails)?
-* 📸 Embed social media (Instagram/TikTok grid)?
-* 📧 Add a newsletter sign-up or “Contact Us”?
 
 <!DOCTYPE html>
 <html lang="en">
